@@ -222,7 +222,13 @@ Get event count grouped by type with optional date filters.
 2. **GET `/analytics/event-counts`** — With and without filters
 3. **GET `/analytics/event-counts-by-type`** — Date range filters
 
-*✅ Screenshots of successful tests are available in the repository under `/screenshots`.*
+*✅ Screenshots of successful tests.*
+![Screenshot (517)](https://github.com/user-attachments/assets/39a3f29e-0c20-4214-99bc-79db5650bf4d)
+![Screenshot (518)](https://github.com/user-attachments/assets/a951bbf6-0193-43d7-a998-63dd1637ddc1)
+![Screenshot (519)](https://github.com/user-attachments/assets/6d118d02-814f-4d3d-b3ec-8165925ea898)
+
+
+
 
 ---
 
