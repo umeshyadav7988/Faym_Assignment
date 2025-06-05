@@ -76,8 +76,8 @@ npm install
 Create a `.env` file in the `backend` directory with:
 
 ```env
-MONGO_URI=mongodb://localhost:27017/analyticsDB
-PORT=5000
+MONGO_URI=
+PORT=
 ```
 
 Generate sample data (1000+ events):
@@ -143,7 +143,7 @@ Creates a new user interaction event.
 Get total event count with optional filters.
 
 * **Method:** GET
-* **Query Params (optional):**
+* **Query Params:**
 
   * `event_type=view`
   * `start_date=2025-05-01`
@@ -270,7 +270,7 @@ Faym_Assignment/
 
 ## 👨‍💻 Author
 
-**Umesh Yadav**
+**Umesh**
 [GitHub Profile](https://github.com/umeshyadav7988)
 [Email](mailto:umeshyadav7988@gmail.com)
 
